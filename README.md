@@ -108,7 +108,7 @@ AtliQ Grands operates across Delhi, Mumbai, Hyderabad, and Bangalore, with multi
    - Implement predictive analytics to anticipate peak demand.
    - Introduce dynamic room allocation to prevent capacity breaches.
 
----
+
 
 ## Visualizations
 All visualizations are available in the `visuals/` folder:
@@ -118,13 +118,13 @@ All visualizations are available in the `visuals/` folder:
 - `occupancy_by_city.png`
 - `customer_ratings_by_city.png`
 
----
+
 
 ## Tools Used
 - **Python (Pandas, Matplotlib)**: For data cleaning and analysis.
 - **Jupyter Notebook**: For interactive data exploration and visualization.
 
----
+
 
 ## How to Use
 1. **Data**:
@@ -134,13 +134,13 @@ All visualizations are available in the `visuals/` folder:
 3. **Analysis**:
    - Review the Jupyter Notebook in the repository for step-by-step analysis.
 
----
+
 
 ## Next Steps
 - Extend the analysis by incorporating external data such as competitor pricing or customer demographics.
 - Use Power BI or Tableau to build an interactive dashboard for stakeholders.
 
----
+
 
 ## Acknowledgements
 - This project is based on anonymized data provided for educational purposes.
