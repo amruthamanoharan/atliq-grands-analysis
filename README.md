@@ -99,6 +99,8 @@ AtliQ Grands operates across Delhi, Mumbai, Hyderabad, and Bangalore, with multi
 3. **Improve Occupancy**:
    - Launch corporate packages targeting business travelers during weekdays.
    - Promote Presidential Suites with luxury packages.
+   - Introduce early-bird discounts and group bookings for weekdays.
+   - Collaborate with local event organizers to host VIP stays.
 
 4. **Enhance Customer Experience**:
    - Address customer concerns in Bangalore through targeted feedback collection.
